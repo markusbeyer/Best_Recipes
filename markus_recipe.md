@@ -18,4 +18,4 @@ _preparation:_
    paycheck comes in to buy that new shiny shisha
    ahmed was talking about last night in wettbüro
 6. serve döner, take money and wish a good day
-7. think about mercedes
+7. think about mercedes  
