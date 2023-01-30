@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I added awesome stuff!
-=======
-this is a test! someone edited the code!
->>>>>>> 66962de32f1d808ef23c512edc96c93e32ea47f7
+I completely added new code.
