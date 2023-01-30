@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 I just added this.
+=======
+I completely added new code.
+# someone added:
+And this is brand new fresh code.
+>>>>>>> 08c96be1fccbf661d7d47d3d1fb8709b145772cd
